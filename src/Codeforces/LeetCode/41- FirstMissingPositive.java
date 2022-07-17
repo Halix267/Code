@@ -1,6 +1,6 @@
 //Swapping OP
 
-int i=0;     
+        int i=0;     
         int n=nums.length;
         while(i<n){
             int correct=nums[i]-1;
